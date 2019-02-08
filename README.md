@@ -10,6 +10,6 @@
    
 3. Implementation of Singleton class using lazy initialisation, eager initialisation, thread safe initialisation.
 4.  Factory Design pattern.
-  -Created a class Computer.
-  - Classes PC and Server extends Computer class.
-  -Created ComputerFactory class which contains a method getComputer that accepts a String representing computer type and          returns the corresponding object i.e. either PC or Server object.   
+  -  Created a class Computer.
+  -  Classes PC and Server extends Computer class.
+  -  Created ComputerFactory class which contains a method getComputer that accepts a String representing computer type and          returns the corresponding object i.e. either PC or Server object.   
